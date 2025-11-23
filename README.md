@@ -147,4 +147,4 @@ SOLTRADE AI is an **experimental AI agent**. While it leverages **advanced AI an
 ---
 
 **🔗 Connect with Us**  
-- **Telegram**: [Community Chat](https://t.me/g0drlc)  
+- **Telegram**: [Community Chat](https://t.me/terauss)  
