@@ -87,7 +87,7 @@ Unlike typical trading bots, **SOLTRADE AI** is a **Smart Onchain Trading Intell
 
 ```bash
 # Clone the repository
-git clone https://github.com/g0drlc/Solana-Trading-AI-Agent.git
+git clone https://github.com/terauss/Solana-Trading-AI-Agent.git
 cd soltrade-ai
 
 # Install dependencies
